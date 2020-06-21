@@ -1,4 +1,4 @@
 # SimpleUserRegistration
-Simple User Registration Java jcdb jsp servlet
+Simple User Registration Java jdbc jsp servlet
 
 ![](/userdb.png)
